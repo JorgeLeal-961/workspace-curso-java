@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="cursojava.classes.Disciplina"/>
+<fullyQualifiedTypeName name="cursojava.constantes.StatusAluno"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="sun.security.action.GetBooleanAction"/>
+<fullyQualifiedTypeName name="cursojava.classes.Aluno"/>
+<fullyQualifiedTypeName name="cursojava.classes.Pessoa"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="cursojava.classes.Secretario"/>
+<fullyQualifiedTypeName name="cursojava.interfaces.PermitirAcesso"/>
+<fullyQualifiedTypeName name="cursojava.classesauxiliares.FuncaoAutenticacao"/>
+<fullyQualifiedTypeName name="cursojava.classes.Diretor"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="br.com.devmedia.alomundo.ProdutoAloMundo"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="com.sun.java.util.jar.pack.Package.File"/>
+<fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="curso.java.excecao.ExcecaoProcessarNota"/>
+</qualifiedTypeNameHistroy>
