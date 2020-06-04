@@ -1,5 +1,2 @@
-meu primeiro arquivo git
-alterar oque quiser
-alteração feita no master
-mais uma linha acicionada
+Meu primeiro sistema no GIT (alterado e atualizado!)
 
